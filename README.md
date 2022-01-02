@@ -3,7 +3,7 @@ A Financial tracker that can be used both online and offline. If entries are rec
 
 ## Description & DEPLOYED WEBSITE
 ---
-The app can be viewed live [here(https://gentle-river-25155/)].
+The app can be viewed live [here](https://gentle-river-25155/).
 Simply add a transaction to the budget tracker by providing the name and amount, and then use the add or subract button depending on whether money is coming in or going out. You'll see the total amount available change based on the income and expediture. To download the application to your desktop, you can click the 'install budget tracker' icon found on the RHS of the address bar in google chrome.
 
 ## Screenshots
