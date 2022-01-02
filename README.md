@@ -31,4 +31,4 @@ Step 5 - Open your browser and enter`localhost:3000`
 
 ## Questions?
 ---
-If you have any questions about this project, please contact me directly on [email](mailto:codyktestakis@gmail.com). You can view more of the projects at [Github](https://github.com/Cktestakis) or this specific project at [budget-tracker](https://github.com/Cktestakis/Finance.Tracker/).
+If you have any questions about this project, please contact me directly on [email](mailto:codyktestakis@gmail.com). You can view more of the projects at [Github](https://github.com/Cktestakis) or this specific project at [Finance.Tracker](https://github.com/Cktestakis/Finance.Tracker/).
